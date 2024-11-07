@@ -1,0 +1,14 @@
+.App-container {
+  max-width: 1280px;
+  margin: 0;
+  padding: 10px;
+}
+
+.clock-form-container {
+  margin-bottom: 30px;
+}
+
+.clocks-container {
+  display: flex;
+  flex-wrap: wrap;
+}

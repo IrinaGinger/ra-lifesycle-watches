@@ -1,0 +1,32 @@
+.clock-form {
+    display: inline-flex;
+    align-items: flex-end;
+
+    font-size: 14px;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.clock-form input {
+    width: 150px;
+    margin-top: 10px;
+    padding: 10px;
+
+    border: 1px solid #000000;
+}
+
+.add-button {
+    width: 100px;
+    padding: 10px;
+
+    border: 1px solid #000000;
+    background-color: #ffffff;
+
+    font-size: inherit;
+
+    cursor: pointer;
+}
